@@ -1,0 +1,7 @@
+.trang1 div {
+    padding-top: 20px;
+}
+.trang1 div input{
+  border: none;
+  border-bottom: 2px solid black;
+}
